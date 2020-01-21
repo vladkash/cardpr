@@ -1,0 +1,16 @@
+{
+    "name": "vladkash/cardpr",
+    "description": "Test cardpr task",
+    "type": "test-task",
+    "require": {
+        "guzzlehttp/guzzle": "6.3.0",
+        "fzaninotto/faker": "^1.9"
+    },
+    "authors": [
+        {
+            "name": "vladkash",
+            "email": "spanch-kash@yandex.ru"
+        }
+    ],
+    "require-dev": {}
+}
